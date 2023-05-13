@@ -22,6 +22,6 @@ A negated statement is a semantic unit made up of three components, namely, the 
 
 [Hugging Face Model](https://huggingface.co/ajtamayoh/NeRUBioS_RoBERTa_Training_Testing)
 
-### How to replicate our experiment
+### How to replicate our experiments
 
 [source code](https://github.com/ajtamayoh/NeRUBioS/blob/main/Source%20code.ipynb)
