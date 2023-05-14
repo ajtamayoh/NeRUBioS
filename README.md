@@ -49,4 +49,13 @@ A negated statement is a semantic unit made up of three components, namely, the 
 | Number of multiword negation scopes     | 4,684    | 585         | 992     | 6,261    |
 | Number of discontinuous negation scopes | 11       | 2           | 3       | 16       |
 | Number of sentences with multiple negation scopes | 873 (6.31%)   | 106 (5.76%)      | 192 (6.94%)   | 1,171 (6.35%)   |
-| Average negation scope length           | "3.92 +/- 3.46 <br> min. 1 <br> max. 42
+| Average negation scope length                 | 3.92 +/- 3.46 (min. 1, max. 42) | 3.83 +/- 3.86 (min. 1, max. 49) | 3.96 +/- 3.53 (min. 1, max. 36) | 3.90 +/- 3.62 (min. 1, max. 42.3) |
+| Number of sentences with uncertainty statements | 1,620                        | 223                          | 332                          | 2,175                       |
+| Number of multiword uncertainty cues           | 700                          | 95                           | 156                          | 951                         |
+| Number of discontinuous uncertainty cues       | 0                            | 0                            | 0                            | 0                           |
+| Number of sentences with multiple uncertainty cues | 196 (1.42%)                | 27 (1.47%)                   | 49 (1.77%)                   | 272 (1.47%)                 |
+| Average uncertainty cue length                 | 1.42 +/- 0.59 (min. 1, max. 7) | 1.39 +/- 0.53 (min. 1, max. 4) | 1.42 +/- 0.53 (min. 1, max. 3) | 1.41 +/- 0.55 (min. 1, max. 4.7) |
+| Number of sentences with uncertainty scopes     | 1,616                        | 221                          | 328                          | 2,165                       |
+| Number of multiword uncertainty scopes          | 1,536                        | 210                          | 327                          | 2,073                       |
+| Number of discontinuous uncertainty scopes      | 11                           | 2                            | 1                            | 14                          |
+| Number of sentences with multiple uncertainty scopes | 207 (1.5%)                 | 26 (1.41%)                   | 49 (1.77%)                   | 282 (1.53%)                 |
