@@ -28,6 +28,13 @@ A negated statement is a semantic unit made up of three components, namely, the 
 
 [source code](https://github.com/ajtamayoh/NeRUBioS/blob/main/Source%20code.ipynb)
 
+### About NeRUBioS
+
+For the OSR identification and linking task, we created NeRUBioS, an augmented version of NUBES (Lima et al., 2020), which is the largest publicly available corpus annotated for negation and uncertainty in Spanish in the biomedical domain. NeRUBioS, the first dataset of its kind, resulted from manually annotating NUBES with OSR tags (see Figure below).
+
+![image](https://github.com/ajtamayoh/NeRUBioS/assets/6041056/a76e12d6-929b-402e-8d08-f7e464845959)
+
+
 ### NeRUBioS statistics
 
 | Features                                | Training | Development | Testing | Overall  |
