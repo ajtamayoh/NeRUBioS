@@ -67,3 +67,8 @@ For the OSR identification and linking task, we created NeRUBioS, an augmented v
 | Number of discontinuous uncertainty scopes      | 11                           | 2                            | 1                            | 14                          |
 | Number of sentences with multiple uncertainty scopes | 207 (1.5%)                 | 26 (1.41%)                   | 49 (1.77%)                   | 282 (1.53%)                 |
 | Average uncertainty scope’s length    | 5.05 +/- 4.96<br>min. 1<br>max. 42 | 5.48 +/- 4.97<br>min. 1<br>max. 40 | 4.71 +/- 4.12<br>min. 1<br>max. 24 | 5.08 +/- 4.68<br>min. 1<br>max. 35.3 |
+
+
+### References
+
+Lima S, Pérez N, Cuadros M, Rigau G. (2020, May). NUBes: A corpus of negation and uncertainty in Spanish clinical texts. In: Proceedings of the 12th LREC Marseille, France, 11–16 May. 2020. p. 5772–5781.
